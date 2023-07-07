@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e8368d6b3fafca4390495b23a46e549, type: 3}
+  m_Name: TORSO_White_Shirt
+  m_EditorClassIdentifier: 
+  name: Body
+  icon: {fileID: -411109576, guid: 2aa6a5220ed05964487369cae6e1b634, type: 3}
+  price: 0
+  sellValue: 0
+  bodyPartName: Base
+  bodyPartAnimationID: 0
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 69c301ba162de9a43b85c0106c6a1faa, type: 2}
+  - {fileID: 7400000, guid: 91f1f666825be2447bb37d33924c2dec, type: 2}
+  - {fileID: 7400000, guid: a00be95c07412ae48b0eca5901a608e1, type: 2}
+  - {fileID: 7400000, guid: 5d9e020888b6ff941a7ec9a647d96a56, type: 2}
+  - {fileID: 7400000, guid: 55586a49f1130c348af33d8e8ebb25e6, type: 2}
